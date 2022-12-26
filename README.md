@@ -2,7 +2,7 @@
 
 ## Description
 
-![Link to the Password Generator] (https://anthonyfrederick7.github.io/Password-Generator/)
+[Link to the Password Generator](https://anthonyfrederick7.github.io/Password-Generator/)
 
 The password generator was created for people who want to randomly create a password with multiple options including character length (8-128), special characters, numbers, uppercases and lowercases.
 
