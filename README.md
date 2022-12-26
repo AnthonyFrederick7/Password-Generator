@@ -16,7 +16,7 @@ N/A
 
     - You will then be prompted with a question asking how many characters you want the password to be (8-128 characters). If the entered value it isn't within the amount of characters shown, it will not proceed and alert you that you didnt enter a valid value.
 
-    - After a valid value for character lengh was input, you will then be asked to confirm or deny 4 more followup questions regarding the password. The 4 followup questions after the prompt asking for character length are asking if you want lowercase letters, uppercase letters, special characters or numbers. Confirming all 4 followup questions is not mandatory for making the password, just adds a bit more security for your password. However it is mandatory to at least confirm one of the followup questions so the generator can have a value to generate. 
+    - After a valid value for character lengh was input, you will then be asked to confirm or deny 4 more followup questions regarding the password. The 4 followup questions after the prompt asking for character length are asking if you want lowercase letters, uppercase letters, special characters or numbers. Confirming all 4 followup questions is not mandatory for making the password, just adds a bit more security for your password. However, it is mandatory to at least confirm one of the followup questions so the generator can have a value to generate. 
 
     - Once the password is generated you can simply copy the password and use it. 
 
